@@ -19,7 +19,7 @@ const obterInstrutor = (req, res) => {
 
 }
 
-function cadastrarInstrutor (req, res) {
+const excluirInstrutor = (req, res) => {
     //bom utilizar desestruturizacao
     const { nome, email, status } = req.body;
 
