@@ -55,7 +55,9 @@ json:
 # *Como Usar*
 Para usar esta API, siga os seguintes passos:
 Utilize os endpoints mencionados acima para listar, obter, cadastrar, atualizar, atualizar o status e excluir instrutores.
-<img src="https://postimg.cc/Fk7rNK10"> 
+
+
+[![image.png](https://i.postimg.cc/3NZdj4Tf/image.png)](https://postimg.cc/Fk7rNK10)
 
 # *Conlusao*
 Esta API REST oferece uma maneira simples e eficaz de gerenciar instrutores em um sistema. Use os endpoints e exemplos acima para começar a interagir com a API e realizar operações de gerenciamento de instrutores. 
